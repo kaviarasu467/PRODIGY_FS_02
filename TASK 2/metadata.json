@@ -1,0 +1,5 @@
+{
+  "name": "HR Pulse - Enterprise Employee Management",
+  "description": "A high-performance CRUD application for HR administrators to manage employee records with AI-powered insights, secure mock authentication, and real-time validation.",
+  "requestFramePermissions": []
+}
